@@ -1,6 +1,6 @@
 ---
 languages: python
-tags: text analysis
+tags: game logic
 level: 3, advanced
 ---
 #Tic Tac Toe Challenge:
