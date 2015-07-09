@@ -2,4 +2,4 @@ languages:
   - python
 tags:
   - game logic
-level: 3, advanced
+level: 3
