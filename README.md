@@ -1,8 +1,4 @@
----
-languages: python
-tags: game logic
-level: 3, advanced
----
+
 #Tic Tac Toe Challenge:
 
 <img src="https://snaughty.files.wordpress.com/2013/04/chicks.jpg" width="200px" align="right" hspace="10">
